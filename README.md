@@ -6,4 +6,4 @@ Mimikko APP Manual
 <details>
 <summary>与某品牌手机相同的梗</summary>
 <img src="https://cdn.jsdelivr.net/gh/LiarOnce/mimikko-manual@main/assets/1.png">
-<details>
+</details>
